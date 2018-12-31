@@ -29,6 +29,7 @@ Google APIs Client Libraries, in [Client Libraries Explained][explained].
   * [Installing the client library](#installing-the-client-library)
   * [Using the client library](#using-the-client-library)
 * [Samples](#samples)
+* [Supported Data Types](#supported-data-types)
 * [Versioning](#versioning)
 * [Contributing](#contributing)
 * [License](#license)
@@ -117,6 +118,17 @@ has instructions for running the samples.
 
 The [Cloud Spanner Node.js Client API Reference][client-docs] documentation
 also contains samples.
+
+## Supported Data Types
+
+| Data Type                   | Description                       | Range | 
+| --------------------------- | --------------------------------- | ----- |
+| Schema | [source code](https://github.com/googleapis/nodejs-spanner/blob/master/samples/schema.js) | [![Open in Cloud Shell][shell_img]](https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/googleapis/nodejs-spanner&page=editor&open_in_editor=samples/schema.js,samples/README.md) |
+| CRUD | [source code](https://github.com/googleapis/nodejs-spanner/blob/master/samples/crud.js) | [![Open in Cloud Shell][shell_img]](https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/googleapis/nodejs-spanner&page=editor&open_in_editor=samples/crud.js,samples/README.md) |
+| Indexing | [source code](https://github.com/googleapis/nodejs-spanner/blob/master/samples/indexing.js) | [![Open in Cloud Shell][shell_img]](https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/googleapis/nodejs-spanner&page=editor&open_in_editor=samples/indexing.js,samples/README.md) |
+| Transactions | [source code](https://github.com/googleapis/nodejs-spanner/blob/master/samples/transaction.js) | [![Open in Cloud Shell][shell_img]](https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/googleapis/nodejs-spanner&page=editor&open_in_editor=samples/transaction.js,samples/README.md) |
+
+For more detailed info, [click here](https://cloud.google.com/spanner/docs/data-types)
 
 ## Versioning
 
