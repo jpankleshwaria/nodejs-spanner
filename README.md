@@ -123,10 +123,11 @@ also contains samples.
 
 | Data Type                   | Description                       | Range | 
 | --------------------------- | --------------------------------- | ----- |
-| Schema | [source code](https://github.com/googleapis/nodejs-spanner/blob/master/samples/schema.js) | [![Open in Cloud Shell][shell_img]](https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/googleapis/nodejs-spanner&page=editor&open_in_editor=samples/schema.js,samples/README.md) |
-| CRUD | [source code](https://github.com/googleapis/nodejs-spanner/blob/master/samples/crud.js) | [![Open in Cloud Shell][shell_img]](https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/googleapis/nodejs-spanner&page=editor&open_in_editor=samples/crud.js,samples/README.md) |
-| Indexing | [source code](https://github.com/googleapis/nodejs-spanner/blob/master/samples/indexing.js) | [![Open in Cloud Shell][shell_img]](https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/googleapis/nodejs-spanner&page=editor&open_in_editor=samples/indexing.js,samples/README.md) |
-| Transactions | [source code](https://github.com/googleapis/nodejs-spanner/blob/master/samples/transaction.js) | [![Open in Cloud Shell][shell_img]](https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/googleapis/nodejs-spanner&page=editor&open_in_editor=samples/transaction.js,samples/README.md) |
+| Schema | nfnldsa | asdfmldsmf |
+| Schema | nfnldsa | asdfmldsmf |
+| Schema | nfnldsa | asdfmldsmf |
+| Schema | nfnldsa | asdfmldsmf |
+| Schema | nfnldsa | asdfmldsmf |
 
 For more detailed info, [click here](https://cloud.google.com/spanner/docs/data-types)
 
