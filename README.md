@@ -119,17 +119,9 @@ has instructions for running the samples.
 The [Cloud Spanner Node.js Client API Reference][client-docs] documentation
 also contains samples.
 
-## Supported Data Types
+## Note
 
-| Data Type                   | Description                       | Range | 
-| --------------------------- | --------------------------------- | ----- |
-| Schema | nfnldsa | asdfmldsmf |
-| Schema | nfnldsa | asdfmldsmf |
-| Schema | nfnldsa | asdfmldsmf |
-| Schema | nfnldsa | asdfmldsmf |
-| Schema | nfnldsa | asdfmldsmf |
-
-For more detailed info, [click here](https://cloud.google.com/spanner/docs/data-types)
+Google Cloud Spanner Node.js uses Base64 encoding. Encoding is done automatically by the client library. You can specify your input values as Base64, but make sure to do so accurately. Google Cloud Spanner does not interpret intent in Base64 values.
 
 ## Versioning
 
