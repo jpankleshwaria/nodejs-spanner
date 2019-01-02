@@ -121,7 +121,7 @@ also contains samples.
 
 ## Note
 
-Google Cloud Spanner Node.js uses Base64 encoding. Encoding is done automatically by the client library. You can specify your input values as Base64, but make sure to do so accurately. Google Cloud Spanner does not interpret intent in Base64 values.
+Google Cloud Spanner Node.js uses Base64 encoding & converts all values into Bytes. Conversion is done automatically by the client library. 
 
 ## Versioning
 
