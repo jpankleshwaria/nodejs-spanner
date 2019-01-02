@@ -45,7 +45,7 @@
     "pretest": "npm run compile",
     "presystem-test": "npm run compile",
     "proto": "npm run proto:spanner",
-    "proto:spanner": "mkdir -p proto && pbjs -t static-module -w commonjs -p node_modules/google-proto-files google/spanner/v1/spanner.proto | pbts -o spanner.d.ts -"
+    "proto:spanner": "mkdir -p proto && pbjs -t static-module -w commonjs -p node_modules/google-proto-files google/spanner/v1/spanner.proto | pbts -o proto/spanner.d.ts -"
   },
   "dependencies": {
     "@google-cloud/common-grpc": "^0.9.2",
